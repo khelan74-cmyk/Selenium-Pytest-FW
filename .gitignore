@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Pytest
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Selenium artifacts
+screenshots/
+reports/
+
+# Credentials / config
+conftest.py
+test_e2etest.json
