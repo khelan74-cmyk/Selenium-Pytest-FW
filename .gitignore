@@ -13,5 +13,4 @@ screenshots/
 reports/
 
 # Credentials / config
-conftest.py
-test_e2etest.json
+
